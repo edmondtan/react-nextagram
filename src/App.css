@@ -1,0 +1,36 @@
+.profile-pic{
+  width: 220px;
+  height:220px;
+  border-radius:50%;
+}
+.profile-section{
+color: DodgerBlue;
+}
+.load{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.postedPhoto{
+  width :350px;
+  height: 350px;
+  margin: 10px;
+}
+.noPhoto{
+ width:50%;
+ position: relative;
+ left: 50%;
+  transform: translate(-50%)
+}
+body{
+  margin: 0 25px;  
+}
+.noStyle{
+  text-decoration: none;
+}
+h1{
+  text-decoration: none;
+  color:black;
+}
+
